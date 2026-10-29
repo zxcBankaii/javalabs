@@ -1,0 +1,11 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="1A-1 Greeting" type="Application" factoryName="Application">
+    <option name="MAIN_CLASS_NAME" value="com.epam.training.chapter1.varianta.Greeting" />
+    <module name="chapter1" />
+    <option name="PROGRAM_PARAMETERS" value="Анна" />
+    <option name="VM_PARAMETERS" value="-Dfile.encoding=UTF-8 -Dstdout.encoding=UTF-8 -Dstdin.encoding=UTF-8" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
