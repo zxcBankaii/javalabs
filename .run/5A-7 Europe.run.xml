@@ -1,0 +1,10 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="5A-7 Europe" type="Application" factoryName="Application">
+    <option name="MAIN_CLASS_NAME" value="com.epam.training.chapter5.varianta.EuropeApp" />
+    <module name="chapter5" />
+    <option name="VM_PARAMETERS" value="-Dfile.encoding=UTF-8 -Dstdout.encoding=UTF-8 -Dstdin.encoding=UTF-8" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
